@@ -8,6 +8,7 @@ int main() {
   printf("Please enter a number\n");
      scanf ("%lf\n" ,&d);
     printf("Your answer is %f:", kup(d));
+    printf("what a beautiful day");
     return 0;
 }
 double kup (double d) {
